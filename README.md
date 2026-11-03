@@ -95,6 +95,7 @@ Open to:
 ## 📫 Connect With Me
 
 - **Email:** krunal.maheshwari@gmail.com
+- **LinkedIn:** [Krunal Maheshwari](https://www.linkedin.com/in/krunal-maheshwari-303a65163/)
 - **GitHub:** [@krunal6649](https://github.com/krunal6649)
 - **Research:** [NETRA Observatory](https://krunal6649.github.io/netra-india-observatory/)
 - **ORCID:** [0009-0009-3832-731X](https://orcid.org/0009-0009-3832-731X)
